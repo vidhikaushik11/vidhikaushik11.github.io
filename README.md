@@ -38,7 +38,8 @@ This site is a curated collection of insights, experiments, and solutions in mod
 ├─ _config.yml       # Jekyll settings
 
 💡 Philosophy
-“We deal with errors to solve them—not to be overwhelmed by them 😅” I value iterative design, precise debugging, and creating user-friendly software that feels purposeful and refined.
+“We deal with errors to solve them—not to be overwhelmed by them ” I value iterative design, precise debugging,
+ and creating user-friendly software that feels purposeful and refined.
 
 📬 Contact
 🌐 Website: vidhikaushik11.github.io 📧 Email: kaushikvidhi11@outlook.com
