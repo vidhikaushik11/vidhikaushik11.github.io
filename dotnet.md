@@ -1,1 +1,13 @@
-
+#How to solve .net package error
+- first open your errored project in new solution
+- build project
+- check if there is any dependency of references in order to build that project
+- if there is any dependency then build that dependency and after that remove all project references, use .dll references instead
+- if you have added any package from nuget, then remove that package from .csproj
+- instead of adding package reference directly from visual studio, go to [Nuget](https://www.nuget.org/), search for package and then download that package
+- then rename the downloaded file's extension from .nupkg to .zip
+- extract that folder, then go to lib directory, and find your matched/required .dll
+- referennce this .dll in your project
+- clear all packages , by going to [Tools\options\NugetPackageManager\General] click on 'clear all nuget storage.
+- clean solution and rebuild the project
+- if issue persist then, restart project in visual studio 
