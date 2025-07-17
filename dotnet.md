@@ -1,4 +1,4 @@
-#How to solve .net package error
+##How to solve .net package error
 - first open your errored project in new solution
 - build project
 - check if there is any dependency of references in order to build that project
