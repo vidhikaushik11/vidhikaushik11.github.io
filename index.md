@@ -1,6 +1,6 @@
 # 📚 Vidhi’s Developer Notebook
 
-[HTML](html.md) | [CSS](CSS.md) | [JavaScript](JS.md) | [C#](CSharp.md) | [.Net](DotNet.md)
+[HTML](html.md) | [CSS](css.md) | [JavaScript](js.md) | [C#](csharp.md) | [.Net](dotnet.md)
 
 ---
 
