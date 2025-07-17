@@ -1,5 +1,7 @@
-## 📚 Contents
-- [Pomodoro Techniques](pomodoro.md)
-- [Syncfusion Tips](syncfusion.md)
-- [Design Ideas](design.md)
+# 📚 Vidhi’s Developer Notebook
 
+[HTML](html.md) | [CSS](css.md) | [JavaScript](js.md) | [C#](csharp.md)
+
+---
+
+Welcome to my digital notebook! Dive into each section to explore learnings, code snippets, and experiments.
